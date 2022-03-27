@@ -109,31 +109,38 @@ h4, h5 {
 
 .education-experience-card {
     margin-top: 25px;
+    text-align: center; /* --- Added in --- */
 }
 
 .card-info p {
     margin-top: 0.35em;
+    text-align: center; /* --- Added in --- */
 }
 
 .card-info p a:hover {
     color: #F08CAE;
+    text-align: center; /* --- Added in --- */
 }
 
 .card-description {
     margin: 15px 0 0 15px;
+    text-align: center; /* --- Added in --- */
 }
 
 .card-description p:not(:first-child) {
     margin-top: 0.35em;
+    text-align: center; /* --- Added in --- */
 }
 
 .card-description p::before {
+    text-align: center; /* --- Added in --- */
     content: ">\A0";
     color: #7EB77F;
     font-weight: 700;
 }
 
 .card-description h5:not(:first-child) {
+    text-align: center; /* --- Added in --- */
     margin-top: 10px;
 }
 
