@@ -200,7 +200,7 @@ h4, h5 {
     #education-experience {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;
+        /* --- justify-content: space-between; REMEMBER TO UNDO THIS PART WHEN YOU HAVE EXPERIENCE ---*/ 
     }
     .education-experience-container {
         width: 48%;
