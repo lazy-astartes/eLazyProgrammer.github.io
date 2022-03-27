@@ -98,6 +98,7 @@ h4, h5 {
 /* --- EDUCATION & EXPERIENCE --- */
 
 .education-experience-container h3 {
+    text-align: center; <!-- Added in -->
     margin-bottom: 50px;
 }
 
